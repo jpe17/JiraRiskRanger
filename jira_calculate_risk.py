@@ -2,7 +2,6 @@ import pandas as pd
 from scipy.stats import norm
 from jira_process import JiraProcess
 
-
 class JiraCalculateRisk(JiraProcess):
     def __init__(self, file_path, json_mapping_path, csv_file_path):
         self.file_path = file_path
