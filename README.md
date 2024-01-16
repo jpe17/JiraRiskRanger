@@ -22,7 +22,3 @@ python run_get_priority.py
 ## Contributing
 
 Contributions to this project are welcome. Please feel free to fork the project, make your changes, and submit a pull request.
-
-## License
-
-[Include information about your project's license here. If you don't have a license yet, consider adding one. Open source licenses help others understand what they can and can't do with your code.]
