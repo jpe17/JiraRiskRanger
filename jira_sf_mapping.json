@@ -1,0 +1,2157 @@
+[
+    {
+        "Jira": "Jira Customer Name",
+        "SF": "Salesforce Name",
+        "ARR": 0
+    },
+    {
+        "Jira": "(BARTA) Berks Area Regional Transportation Authority",
+        "SF": "(BARTA) Berks Area Regional Transportation Authority",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Abellio London",
+        "SF": "Abellio London",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Abellio NW",
+        "SF": "Abellio North West",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Advance Transit",
+        "SF": "Advance Transit",
+        "ARR": 6360.0
+    },
+    {
+        "Jira": "AUTOGUIDOVIE SPA",
+        "SF": "AGI AUTOGUIDOVIE SPA",
+        "ARR": 45273.37
+    },
+    {
+        "Jira": "US - Alexandria DASH",
+        "SF": "Alexandria Transit Company - DASH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Allen County Regional Transit Authority",
+        "SF": "Allen County Regional Transit Authority",
+        "ARR": 5100.0
+    },
+    {
+        "Jira": "Alpha",
+        "SF": "Alpha",
+        "ARR": 23355.0
+    },
+    {
+        "Jira": "Alstom Transport Canada",
+        "SF": "Alstom Transport Canada Inc.",
+        "ARR": 26818.33
+    },
+    {
+        "Jira": "Amador Regional Transit Authority",
+        "SF": "Amador Regional Transit Authority",
+        "ARR": 4200.0
+    },
+    {
+        "Jira": "Anaheim Transportation Network (ART & FRAN)",
+        "SF": "Anaheim Transportation Network (ART & FRAN)",
+        "ARR": 5900.0
+    },
+    {
+        "Jira": "Antelope Valley",
+        "SF": "Antelope Valley Transit Authority (AVTA)",
+        "ARR": 21060.0
+    },
+    {
+        "Jira": "Apple",
+        "SF": "Apple",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Arriva Italy",
+        "SF": "Arriva Italia s.r.l.",
+        "ARR": 116525.0
+    },
+    {
+        "Jira": "Arriva London",
+        "SF": "Arriva London",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Arriva Slovakia",
+        "SF": "Arriva Slovakia a.s.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Arriva Slovenia",
+        "SF": "Arriva Slovenia",
+        "ARR": 269691.78
+    },
+    {
+        "Jira": "Arriva Spain",
+        "SF": "Arriva Spain",
+        "ARR": 36545.07
+    },
+    {
+        "Jira": "Arriva UK Bus",
+        "SF": "Arriva UK Bus",
+        "ARR": 2373156.14
+    },
+    {
+        "Jira": "ASCENDAL CHILE",
+        "SF": "ASCENDAL CHILE",
+        "ARR": 44520.0
+    },
+    {
+        "Jira": "Asheville Redefines Transit",
+        "SF": "Asheville Redefines Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "ATAP",
+        "SF": "ATAP Pordenone",
+        "ARR": 41257.1
+    },
+    {
+        "Jira": "ATP Poa RS",
+        "SF": "ATP Poa RS",
+        "ARR": 248133.1
+    },
+    {
+        "Jira": "AT-Metro",
+        "SF": "Auckland Transport",
+        "ARR": 84366.34
+    },
+    {
+        "Jira": "auto via\u00e7ao salinera -RJ -Cabo frio",
+        "SF": "auto via\u00e7ao salinera -RJ -Cabo frio",
+        "ARR": 10580.39
+    },
+    {
+        "Jira": "Avalon Transit",
+        "SF": "Avalon Transit",
+        "ARR": 1350.0
+    },
+    {
+        "Jira": "Avenir Atlantique",
+        "SF": "Avenir Atlantique",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "BPTC Bahrain Public Transport Company",
+        "SF": "Bahrain Public Transport Company",
+        "ARR": 127416.29
+    },
+    {
+        "Jira": "Baltimore Water Taxi",
+        "SF": "Baltimore Water Taxi",
+        "ARR": 1125.0
+    },
+    {
+        "Jira": "Barraqueiro SGPS SA",
+        "SF": "Barraqueiro SGPS SA",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Bayway (fka Bay Town Trolley) (Panama City, FL)",
+        "SF": "Bayway (fka Bay Town Trolley) (Panama City, FL)",
+        "ARR": 8965.08
+    },
+    {
+        "Jira": "Beloit Transit",
+        "SF": "Beloit Transit",
+        "ARR": 6200.0
+    },
+    {
+        "Jira": "Benson Area Transit",
+        "SF": "Benson Area Transit",
+        "ARR": 750.0
+    },
+    {
+        "Jira": "Berkshire Regional Transit Authority (BRTA)",
+        "SF": "Berkshire Regional Transit Authority (BRTA)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Bettania Onibus",
+        "SF": "Bettania Onibus",
+        "ARR": 26796.79
+    },
+    {
+        "Jira": "Bluegrass Ultra-Transit Service",
+        "SF": "Bluegrass Ultra-Transit Service",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "Braso",
+        "SF": "Braso",
+        "ARR": 24132.4
+    },
+    {
+        "Jira": "Breckenridge Free Ride",
+        "SF": "Breckenridge Free Ride",
+        "ARR": 6800.0
+    },
+    {
+        "Jira": "British Columbia Ferries (BC Ferries)",
+        "SF": "British Columbia Ferries (BC Ferries)",
+        "ARR": 15250.0
+    },
+    {
+        "Jira": "Brockton Area Transit",
+        "SF": "Brockton Area Transit",
+        "ARR": 7850.0
+    },
+    {
+        "Jira": "BRT Sorocaba SP",
+        "SF": "BRT Sorocaba SP",
+        "ARR": 13229.77
+    },
+    {
+        "Jira": "BRT-RIO DE JANEIRO-RJ",
+        "SF": "BRT-RIO DE JANEIRO-RJ",
+        "ARR": 21743.21
+    },
+    {
+        "Jira": "Buff Bus",
+        "SF": "Buff Bus",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Bullhead Area Transit System",
+        "SF": "Bullhead Area Transit System",
+        "ARR": 2250.0
+    },
+    {
+        "Jira": "Bus Company",
+        "SF": "Bus Company",
+        "ARR": 79931.79
+    },
+    {
+        "Jira": "Bus Eireann",
+        "SF": "Bus Eireann",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "DE - BVB Berlin",
+        "SF": "Bus Verkehr Berlin KG (BVB)",
+        "ARR": 22978.73
+    },
+    {
+        "Jira": "Buscor (Pty) Ltd",
+        "SF": "Buscor (Pty) Ltd",
+        "ARR": 143808.0
+    },
+    {
+        "Jira": "Buslines Group",
+        "SF": "Buslines Group",
+        "ARR": 144031.65
+    },
+    {
+        "Jira": "BCRTA",
+        "SF": "Butler County RTA (BCRTA)",
+        "ARR": 44880.0
+    },
+    {
+        "Jira": "Calaveras Connect",
+        "SF": "Calaveras Connect",
+        "ARR": 3150.0
+    },
+    {
+        "Jira": "Cambridge Systematics",
+        "SF": "Cambridge Systematics",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "CamTran",
+        "SF": "CamTran",
+        "ARR": 37381.63
+    },
+    {
+        "Jira": "Cape Ann Transportation Authority",
+        "SF": "Cape Ann Transportation Authority",
+        "ARR": 10450.0
+    },
+    {
+        "Jira": "CAT",
+        "SF": "Capital Area Transit (CAT) - Harrisburg, PA",
+        "ARR": 74701.92
+    },
+    {
+        "Jira": "Capital Transit - Juneau, AK",
+        "SF": "Capital Transit - Juneau, AK",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Central Area Rural Transit Systems",
+        "SF": "Central Area Rural Transit Systems",
+        "ARR": 2000.0
+    },
+    {
+        "Jira": "Rabbit",
+        "SF": "Central Pennsylvania Transportation Authority (dba Rabbit Transit)",
+        "ARR": 54060.6
+    },
+    {
+        "Jira": "Centre Area Transportation Authority (CATA) - State College, PA",
+        "SF": "Centre Area Transportation Authority (CATA) - State College, PA",
+        "ARR": 104821.0
+    },
+    {
+        "Jira": "US - CATA State College",
+        "SF": "Centre Area Transportation Authority (CATA) - State College, PA",
+        "ARR": 104821.0
+    },
+    {
+        "Jira": "Chapel Hill",
+        "SF": "Chapel Hill Transit",
+        "ARR": 164730.0
+    },
+    {
+        "Jira": "US - CATS - Charlotte",
+        "SF": "Charlotte Area Transit System (CATS)- Charlotte, NC",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Chartered speed",
+        "SF": "Chartered speed",
+        "ARR": 95160.0
+    },
+    {
+        "Jira": "CIMAL",
+        "SF": "CIMAL",
+        "ARR": 23020.36
+    },
+    {
+        "Jira": "Citibus of Lubbock, TX",
+        "SF": "Citibus of Lubbock, TX",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Cities Area Transit",
+        "SF": "Cities Area Transit",
+        "ARR": 5500.0
+    },
+    {
+        "Jira": "Citral RS",
+        "SF": "Citral RS",
+        "ARR": 23829.54
+    },
+    {
+        "Jira": "City of Appleton Valley Transit",
+        "SF": "City of Appleton, Valley Transit",
+        "ARR": 40760.51
+    },
+    {
+        "Jira": "City of Appleton, Valley Transit",
+        "SF": "City of Appleton, Valley Transit",
+        "ARR": 40760.51
+    },
+    {
+        "Jira": "Valley Transit",
+        "SF": "City of Appleton, Valley Transit",
+        "ARR": 40760.51
+    },
+    {
+        "Jira": "GoDurham",
+        "SF": "City of Durham (GoDurham)",
+        "ARR": 82440.0
+    },
+    {
+        "Jira": "City of Farmington - Red Apple Transit",
+        "SF": "City of Farmington - Red Apple Transit",
+        "ARR": 5200.0
+    },
+    {
+        "Jira": "City of Key West / Key West Transit",
+        "SF": "City of Key West / Key West Transit",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "City of Lawndale - Lawndale Beat",
+        "SF": "City of Lawndale - Lawndale Beat",
+        "ARR": 3999.96
+    },
+    {
+        "Jira": "City of Madera",
+        "SF": "City of Madera",
+        "ARR": 5000.0
+    },
+    {
+        "Jira": "Montebello Bus Lines",
+        "SF": "City of Montebello/Montebello Bus Lines",
+        "ARR": 55553.4
+    },
+    {
+        "Jira": "Clovis, City of / Transit CTSA",
+        "SF": "Clovis, City of / Transit CTSA",
+        "ARR": 0
+    },
+    {
+        "Jira": "CoachUSA",
+        "SF": "CoachUSA",
+        "ARR": 22000.0
+    },
+    {
+        "Jira": "Coleurb",
+        "SF": "Coleurb Coletivo Urbano Ltda.",
+        "ARR": 18769.64
+    },
+    {
+        "Jira": "Coleurb Coletivo Urbano Ltda.",
+        "SF": "Coleurb Coletivo Urbano Ltda.",
+        "ARR": 18769.64
+    },
+    {
+        "Jira": "Collier Area Transit",
+        "SF": "Collier Area Transit (CAT) Naples FL",
+        "ARR": 37501.32
+    },
+    {
+        "Jira": "Colorado Department of Transportation (CDOT)",
+        "SF": "Colorado Department of Transportation (CDOT)",
+        "ARR": 98330.0
+    },
+    {
+        "Jira": "Columbia Area Transit (CAT), Hood River, OR",
+        "SF": "Columbia Area Transit (CAT), Hood River, OR",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Commute.org",
+        "SF": "Commute.org",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Karlssonbuss",
+        "SF": "Connect Bus AS",
+        "ARR": 162189.48
+    },
+    {
+        "Jira": "Coos County Area Transit",
+        "SF": "Coos County Area Transit",
+        "ARR": 10210.0
+    },
+    {
+        "Jira": "Cottonwood Area Transit (CAT)",
+        "SF": "Cottonwood Area Transit (CAT)",
+        "ARR": 4015.38
+    },
+    {
+        "Jira": "COLTS",
+        "SF": "County Of Lackawanna Transit System-COLTSBus - Scranton, PA",
+        "ARR": 0
+    },
+    {
+        "Jira": "US - CATA Crawford",
+        "SF": "Crawford Area Transportation Authority (CATA- Crawford)",
+        "ARR": 29600.87
+    },
+    {
+        "Jira": "Dan Beer Sheva",
+        "SF": "Dan Beer Sheva",
+        "ARR": 68809.94
+    },
+    {
+        "Jira": "Dan Tzafon (Metronit) IL",
+        "SF": "Dan North (Metronit)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Dan Badarom",
+        "SF": "Dan South",
+        "ARR": 121581.76
+    },
+    {
+        "Jira": "Dan South",
+        "SF": "Dan South",
+        "ARR": 121581.76
+    },
+    {
+        "Jira": "Dan",
+        "SF": "Dan Tel Aviv",
+        "ARR": 446183.23
+    },
+    {
+        "Jira": "Dan Tel Aviv",
+        "SF": "Dan Tel Aviv",
+        "ARR": 446183.23
+    },
+    {
+        "Jira": "Davenport Citibus",
+        "SF": "Davenport Citibus",
+        "ARR": 22473.49
+    },
+    {
+        "Jira": "DB Regio Bus Bayern GmbH",
+        "SF": "DB Regio Bus Bayern GmbH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "DEDO DE DEUS",
+        "SF": "DEDO DE DEUS",
+        "ARR": 20709.09
+    },
+    {
+        "Jira": "DeKalb Public Transit",
+        "SF": "DeKalb Public Transit",
+        "ARR": 6300.0
+    },
+    {
+        "Jira": "Delano Area Rapid Transit",
+        "SF": "Delano Area Rapid Transit",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "Denton County Transportation Agency",
+        "SF": "Denton County Transportation Agency",
+        "ARR": 6000.0
+    },
+    {
+        "Jira": "DPO",
+        "SF": "DPO",
+        "ARR": 132179.64
+    },
+    {
+        "Jira": "Dr. Richard",
+        "SF": "Dr. Richard Linien GmbH & Co KG",
+        "ARR": 250461.76
+    },
+    {
+        "Jira": "DTC India",
+        "SF": "DTC India",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "DTPM red Santiago",
+        "SF": "DTPM red Santiago",
+        "ARR": 458496.0
+    },
+    {
+        "Jira": "Dyson",
+        "SF": "Dysons",
+        "ARR": 233193.68
+    },
+    {
+        "Jira": "Eastern Sierra Transit",
+        "SF": "Eastern Sierra Transit Auth",
+        "ARR": 5250.0
+    },
+    {
+        "Jira": "Egged",
+        "SF": "Egged",
+        "ARR": 348480.0
+    },
+    {
+        "Jira": "El Dorado County Transit Authority (El Dorado Transit)",
+        "SF": "El Dorado County Transit Authority (El Dorado Transit)",
+        "ARR": 7700.0
+    },
+    {
+        "Jira": "US - El Dorado",
+        "SF": "El Dorado County Transit Authority (El Dorado Transit)",
+        "ARR": 7700.0
+    },
+    {
+        "Jira": "El Monte Transit",
+        "SF": "El Monte Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Eldorado Transportes",
+        "SF": "Eldorado Transportes",
+        "ARR": 45222.13
+    },
+    {
+        "Jira": "Afikim IL",
+        "SF": "Electra Afikim",
+        "ARR": 240989.46
+    },
+    {
+        "Jira": "Electra Afikim",
+        "SF": "Electra Afikim",
+        "ARR": 240989.46
+    },
+    {
+        "Jira": "Egged taavura",
+        "SF": "Electra Afikim Tahbura",
+        "ARR": 11082.57
+    },
+    {
+        "Jira": "Electra Afikim Tahbura",
+        "SF": "Electra Afikim Tahbura",
+        "ARR": 11082.57
+    },
+    {
+        "Jira": "Ellensburg Central Transit",
+        "SF": "Ellensburg Central Transit",
+        "ARR": 2500.0
+    },
+    {
+        "Jira": "Emery Go-Round",
+        "SF": "Emery Go-Round",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Epic Mountain Express",
+        "SF": "Epic Mountain Express",
+        "ARR": 1225.0
+    },
+    {
+        "Jira": "Escambia County Area Transit",
+        "SF": "Escambia County Area Transit",
+        "ARR": 42660.0
+    },
+    {
+        "Jira": "eTrans",
+        "SF": "eTrans",
+        "ARR": 650.0
+    },
+    {
+        "Jira": "Eva Transportes SA",
+        "SF": "Eva Transportes SA",
+        "ARR": 83648.41
+    },
+    {
+        "Jira": "Exact Transport Israel",
+        "SF": "Exact Transport Israel",
+        "ARR": 34385.58
+    },
+    {
+        "Jira": "Expresso Charqueadas RS",
+        "SF": "Expresso Charqueadas RS",
+        "ARR": 12420.46
+    },
+    {
+        "Jira": "expresso recreio",
+        "SF": "expresso recreio",
+        "ARR": 17120.88
+    },
+    {
+        "Jira": "Expresso Unir",
+        "SF": "Expresso Unir",
+        "ARR": 21879.15
+    },
+    {
+        "Jira": "Extra Public Transport",
+        "SF": "Extra Public Transport",
+        "ARR": 216293.94
+    },
+    {
+        "Jira": "F.lli Rigato autoservizi S.r.l",
+        "SF": "F.lli Rigato autoservizi S.r.l.",
+        "ARR": 45515.53
+    },
+    {
+        "Jira": "Fairfield and Suisun Transit (FAST)",
+        "SF": "Fairfield and Suisun Transit (FAST)",
+        "ARR": 3850.0
+    },
+    {
+        "Jira": "Falcon",
+        "SF": "Falcon Coaches Ltd",
+        "ARR": 26810.85
+    },
+    {
+        "Jira": "Ferrovie Nord Milano Autoservizi SpA",
+        "SF": "FNMA - Ferrovie Nord Milano Autoservizi SpA",
+        "ARR": 72215.71
+    },
+    {
+        "Jira": "First UK",
+        "SF": "First Bus UK",
+        "ARR": 1390771.45
+    },
+    {
+        "Jira": "First Transit USA",
+        "SF": "First Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Flibco",
+        "SF": "Flibco",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Flint Hills",
+        "SF": "Flint Hills Area Transportation Agency",
+        "ARR": 35398.08
+    },
+    {
+        "Jira": "Franklin Transit Authority",
+        "SF": "Franklin Transit Authority",
+        "ARR": 1500.0
+    },
+    {
+        "Jira": "FUKUYAMA CONSULTANTS CO., LTD.",
+        "SF": "FUKUYAMA CONSULTANTS CO., LTD.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Galleon Travel",
+        "SF": "Galleon Travel 2009 Ltd",
+        "ARR": 33660.84
+    },
+    {
+        "Jira": "GB Tours",
+        "SF": "GB Tours",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Global Gran Canaria (Salcai Utinsa)",
+        "SF": "Global Gran Canaria (Salcai Utinsa)",
+        "ARR": 111533.43
+    },
+    {
+        "Jira": "GMV",
+        "SF": "GMV",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "NZ - Go Bus",
+        "SF": "Go Bus Transport (NZ)",
+        "ARR": 129112.56
+    },
+    {
+        "Jira": "Go Coach",
+        "SF": "Go Coach",
+        "ARR": 20293.49
+    },
+    {
+        "Jira": "Go Transit",
+        "SF": "Go Transit",
+        "ARR": 3240.0
+    },
+    {
+        "Jira": "Go-Ahead London",
+        "SF": "Go-Ahead London",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "DE - go.on",
+        "SF": "go.on Gesellschaft f\u00fcr Bus- und Schienenverkehr mbH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "US - Get Bus",
+        "SF": "Golden Empire Transit District- GET bus",
+        "ARR": 79200.0
+    },
+    {
+        "Jira": "GoWal",
+        "SF": "GoWal",
+        "ARR": 2250.0
+    },
+    {
+        "Jira": "Gradski transport Dobrich EOOD",
+        "SF": "Gradski transport Dobrich EOOD",
+        "ARR": 9288.88
+    },
+    {
+        "Jira": "Greater Attleboro Taunton Regional Transit Authority",
+        "SF": "Greater Attleboro Taunton Regional Transit Authority",
+        "ARR": 6000.0
+    },
+    {
+        "Jira": "Greater Bridgeport Transit",
+        "SF": "Greater Bridgeport Transit",
+        "ARR": 6650.0
+    },
+    {
+        "Jira": "Greater Lynchburg Transit Company (GLTC)",
+        "SF": "Greater Lynchburg Transit Company (GLTC)",
+        "ARR": 5850.0
+    },
+    {
+        "Jira": "Green Mountain Transit",
+        "SF": "Green Mountain Transit",
+        "ARR": 5900.0
+    },
+    {
+        "Jira": "Grupo Felicio",
+        "SF": "Grupo Felicio",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Grupo Fenix SP",
+        "SF": "Grupo Fenix SP",
+        "ARR": 33293.85
+    },
+    {
+        "Jira": "GRUPO GA - EXPRESSO SETE LAGOAS- BH",
+        "SF": "GRUPO GA - EXPRESSO SETE LAGOAS- BH",
+        "ARR": 34657.94
+    },
+    {
+        "Jira": "Grupo Redentor",
+        "SF": "Grupo Redentor",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Grupo Ruiz",
+        "SF": "Grupo Ruiz",
+        "ARR": 93761.85
+    },
+    {
+        "Jira": "GRUPO SARITUR",
+        "SF": "GRUPO SARITUR",
+        "ARR": 120596.73
+    },
+    {
+        "Jira": "Saritur",
+        "SF": "GRUPO SARITUR",
+        "ARR": 120596.73
+    },
+    {
+        "Jira": "GTrans/City of Gardena",
+        "SF": "GTrans/City of Gardena",
+        "ARR": 3149.84
+    },
+    {
+        "Jira": "Guadalupe Flyer",
+        "SF": "Guadalupe Flyer",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "HADAG Seetouristik und F\u00e4hrdienst AG",
+        "SF": "HADAG Seetouristik und F\u00e4hrdienst AG",
+        "ARR": 37352.66
+    },
+    {
+        "Jira": "Hallcon SFO",
+        "SF": "Hallcon Corporation",
+        "ARR": 25760.8
+    },
+    {
+        "Jira": "HDR",
+        "SF": "HDR",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Hor\u00e1rios do Funchal",
+        "SF": "Hor\u00e1rios do Funchal",
+        "ARR": 45836.09
+    },
+    {
+        "Jira": "Humboldt Transit Authority",
+        "SF": "Humboldt Transit Authority",
+        "ARR": 23363.2
+    },
+    {
+        "Jira": "Imatra Public Transport",
+        "SF": "Imatra Public Transport",
+        "ARR": 6589.07
+    },
+    {
+        "Jira": "Indian Trails",
+        "SF": "Indian Trails",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Ingartek",
+        "SF": "Ingartek",
+        "ARR": 9058.94
+    },
+    {
+        "Jira": "Iwakuni Bus Co.,Ltd.",
+        "SF": "Iwakuni Bus Co.,Ltd.",
+        "ARR": 25348.82
+    },
+    {
+        "Jira": "Jackson Transit Authority",
+        "SF": "Jackson Transit Authority",
+        "ARR": 3450.0
+    },
+    {
+        "Jira": "Janesville Transit System",
+        "SF": "Janesville Transit System",
+        "ARR": 3000.0
+    },
+    {
+        "Jira": "Jerez Municipality",
+        "SF": "Jerez Municipality",
+        "ARR": 31900.68
+    },
+    {
+        "Jira": "JGSP Novi Sad",
+        "SF": "JGSP Novi Sad",
+        "ARR": 84696.49
+    },
+    {
+        "Jira": "Johnson County Transit",
+        "SF": "Johnson County Transit",
+        "ARR": 12798.12
+    },
+    {
+        "Jira": "Johnsons",
+        "SF": "Johnsons Coach & Bus Travel",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Josephine Community Transit",
+        "SF": "Josephine Community Transit",
+        "ARR": 3050.0
+    },
+    {
+        "Jira": "Jouko (Lappeenranta)",
+        "SF": "Jouko (Lappeenranta)",
+        "ARR": 26564.56
+    },
+    {
+        "Jira": "JTRAN",
+        "SF": "JTRAN",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Kavim",
+        "SF": "Kavim",
+        "ARR": 297246.83
+    },
+    {
+        "Jira": "KAYSERI ULASIM A.S.",
+        "SF": "KAYSERI ULASIM A.S.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "FR - Keolis",
+        "SF": "Keolis France",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Keolis PRTC",
+        "SF": "Keolis NA - PRTC Omniride",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Keolis Canada",
+        "SF": "Keolis NA Canada",
+        "ARR": 63000.0
+    },
+    {
+        "Jira": "Keolis Greensboro",
+        "SF": "Keolis NA Greensboro",
+        "ARR": -32395.2
+    },
+    {
+        "Jira": "Keolis Las Vegas",
+        "SF": "Keolis NA Las Vegas",
+        "ARR": 3.57
+    },
+    {
+        "Jira": "Keolis Loudoun County",
+        "SF": "Keolis NA Loudoun County",
+        "ARR": 58560.0
+    },
+    {
+        "Jira": "Keolis Reno",
+        "SF": "Keolis NA Reno",
+        "ARR": 52906.56
+    },
+    {
+        "Jira": "Keolis VVTA",
+        "SF": "Keolis NA VVTA",
+        "ARR": 29700.0
+    },
+    {
+        "Jira": "Keolis USA",
+        "SF": "Keolis North America",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Kern Transit",
+        "SF": "Kern Transit",
+        "ARR": 3800.0
+    },
+    {
+        "Jira": "Kirkby",
+        "SF": "Kirkby Lonsdale Coach Hire Ltd",
+        "ARR": 9554.83
+    },
+    {
+        "Jira": "Knoxville Area Transit",
+        "SF": "Knoxville Area Transit (KAT)",
+        "ARR": 75924.0
+    },
+    {
+        "Jira": "Kolors",
+        "SF": "Kolors",
+        "ARR": 11335.8
+    },
+    {
+        "Jira": "KCM",
+        "SF": "Kwoon Chung Motors (KCM)",
+        "ARR": 58740.85
+    },
+    {
+        "Jira": "Laguna Beach Transit",
+        "SF": "Laguna Beach Transit",
+        "ARR": 4500.0
+    },
+    {
+        "Jira": "Lake Transit",
+        "SF": "Lake Transit",
+        "ARR": 4200.0
+    },
+    {
+        "Jira": "Lakes Region Explorer",
+        "SF": "Lakes Region Explorer",
+        "ARR": 1400.0
+    },
+    {
+        "Jira": "Laketran - Ohio",
+        "SF": "Laketran - Ohio",
+        "ARR": 1500.0
+    },
+    {
+        "Jira": "La Linea",
+        "SF": "LaLinea Spa",
+        "ARR": 30951.62
+    },
+    {
+        "Jira": "LANDBUS Unterland",
+        "SF": "Landbus Unterland",
+        "ARR": 54583.82
+    },
+    {
+        "Jira": "Landkreis B\u00f6blingen",
+        "SF": "Landkreis B\u00f6blingen",
+        "ARR": 16203.77
+    },
+    {
+        "Jira": "Lassen Rural Bus",
+        "SF": "Lassen Rural Bus",
+        "ARR": 2500.0
+    },
+    {
+        "Jira": "Leblon Transporte De Passageiros LTDA",
+        "SF": "Leblon Transporte De Passageiros LTDA",
+        "ARR": 24458.4
+    },
+    {
+        "Jira": "LANta",
+        "SF": "Lehigh and Northampton Transportation Authority (LANta)",
+        "ARR": 72459.0
+    },
+    {
+        "Jira": "Litoral Norte",
+        "SF": "Litoral Norte",
+        "ARR": 31288.99
+    },
+    {
+        "Jira": "Los Angeles County Dept. of Public Works",
+        "SF": "Los Angeles County Dept. of Public Works",
+        "ARR": 7050.0
+    },
+    {
+        "Jira": "LADOT",
+        "SF": "Los Angeles Dept of Transportation (LA DOT)",
+        "ARR": 353468.16
+    },
+    {
+        "Jira": "Lowell Regional Transit Authority",
+        "SF": "Lowell Regional Transit Authority",
+        "ARR": 3000.0
+    },
+    {
+        "Jira": "Lux Express",
+        "SF": "Lux Express",
+        "ARR": 54993.07
+    },
+    {
+        "Jira": "Luzerne County Transportation Authority",
+        "SF": "Luzerne County Transportation Authority",
+        "ARR": 31318.56
+    },
+    {
+        "Jira": "DE LVL",
+        "SF": "LVL J\u00e4ger GmbH",
+        "ARR": 35913.91
+    },
+    {
+        "Jira": "Madera County Transportation Commission",
+        "SF": "Madera County Transportation Commission",
+        "ARR": 3312.0
+    },
+    {
+        "Jira": "Madison County",
+        "SF": "Madison County Transit",
+        "ARR": 80100.0
+    },
+    {
+        "Jira": "Manteca Transit - City of Manteca",
+        "SF": "Manteca Transit - City of Manteca",
+        "ARR": 8380.0
+    },
+    {
+        "Jira": "Marin Transit",
+        "SF": "Marin Transit - San Rafael, CA",
+        "ARR": 35640.0
+    },
+    {
+        "Jira": "Mass Transportation Authority (MTA Flint, MI)",
+        "SF": "Mass Transportation Authority (MTA Flint, MI)",
+        "ARR": 92761.8
+    },
+    {
+        "Jira": "McGills",
+        "SF": "McGills",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Megabus",
+        "SF": "Megabus",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Mekka Traffic AB",
+        "SF": "Mekka Traffic AB",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Mendocino Transit Authority (MTA)",
+        "SF": "Mendocino Transit Authority (MTA)",
+        "ARR": 6988.24
+    },
+    {
+        "Jira": "Merced County Association of Governments (MCAG) (The Bus)",
+        "SF": "Merced County Association of Governments (MCAG) (The Bus)",
+        "ARR": 6300.0
+    },
+    {
+        "Jira": "Merrimack Valley Regional Transit Authority - MeVa - (fka MVRTA)",
+        "SF": "Merrimack Valley Regional Transit Authority - MeVa - (fka MVRTA)",
+        "ARR": 26338.84
+    },
+    {
+        "Jira": "Facebook",
+        "SF": "Meta (Facebook)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Metbus",
+        "SF": "MetBus",
+        "ARR": 463296.0
+    },
+    {
+        "Jira": "Metro Ride",
+        "SF": "Metro Ride",
+        "ARR": 0
+    },
+    {
+        "Jira": "Metro Trains Melbourne",
+        "SF": "Metro Trains Melbourne",
+        "ARR": 59593.47
+    },
+    {
+        "Jira": "Metropoline",
+        "SF": "Metropoline",
+        "ARR": 418636.46
+    },
+    {
+        "Jira": "Middletown Estuary",
+        "SF": "Middletown Transit District & Estuary Transit District",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Middletown Transit District & Estuary Transit District",
+        "SF": "Middletown Transit District & Estuary Transit District",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Mission Bay TMA",
+        "SF": "Mission Bay TMA",
+        "ARR": 3980.0
+    },
+    {
+        "Jira": "Mobi Recife",
+        "SF": "Mobi Recife",
+        "ARR": 59444.33
+    },
+    {
+        "Jira": "MobiBrasil SP",
+        "SF": "MobiBrasil SP",
+        "ARR": 94120.39
+    },
+    {
+        "Jira": "Mobilis",
+        "SF": "Mobilis",
+        "ARR": null
+    },
+    {
+        "Jira": "Mobility ADO",
+        "SF": "Mobility ADO",
+        "ARR": 172871.93
+    },
+    {
+        "Jira": "Montgomery Transit",
+        "SF": "Montgomery Transit",
+        "ARR": 5950.0
+    },
+    {
+        "Jira": "Moratense SP",
+        "SF": "Moratense SP",
+        "ARR": 29901.1
+    },
+    {
+        "Jira": "Multiobus",
+        "SF": "Multiobus",
+        "ARR": 104870.51
+    },
+    {
+        "Jira": "MV USA",
+        "SF": "MV Transportation",
+        "ARR": 504900.0
+    },
+    {
+        "Jira": "MVgo",
+        "SF": "MVgo",
+        "ARR": 3850.0
+    },
+    {
+        "Jira": "MVTA",
+        "SF": "MVTA- Minnesota Valley Transit Authority",
+        "ARR": 124080.0
+    },
+    {
+        "Jira": "Napa Valley Transportation Authority (NVTA) / VINE Transit",
+        "SF": "Napa Valley Transportation Authority (NVTA) / VINE Transit",
+        "ARR": 16255.0
+    },
+    {
+        "Jira": "US - Nashville WeGo",
+        "SF": "Nashville Metropolitan Transit Authority (MTA) WeGo Public Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "National express UK",
+        "SF": "National Express UK Bus (trading as National Express West Midlands)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Newcrest",
+        "SF": "Newcrest Mining (PNG)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Newport",
+        "SF": "Newport Transport",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "NICE BUS",
+        "SF": "NICE (Nassau Inter-County Express) - Transdev NA",
+        "ARR": 208982.4
+    },
+    {
+        "Jira": "Nobina SE",
+        "SF": "Nobina Sweden",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "nossa senhora de amparo -Maric\u00e1",
+        "SF": "nossa senhora de amparo -Maric\u00e1",
+        "ARR": 0
+    },
+    {
+        "Jira": "Nu-Venture",
+        "SF": "Nu-Venture",
+        "ARR": 15666.33
+    },
+    {
+        "Jira": "Palm Tran",
+        "SF": "Palm Tran (West Palm Beach, FL)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Palos Verdes Peninsula Transit Authority (PV Transit)",
+        "SF": "Palos Verdes Peninsula Transit Authority (PV Transit)",
+        "ARR": 4050.0
+    },
+    {
+        "Jira": "Park City",
+        "SF": "Park City Transit, Park City Municipal Corporation (PCMC)",
+        "ARR": 60960.0
+    },
+    {
+        "Jira": "Parks of Hamilton",
+        "SF": "Parks of Hamilton",
+        "ARR": 38989.12
+    },
+    {
+        "Jira": "US - Pasadena",
+        "SF": "Pasadena, City of / Pasadena Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Pasco County Florida",
+        "SF": "Pasco County Florida",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Petaluma Transit",
+        "SF": "Petaluma Transit",
+        "ARR": 5300.0
+    },
+    {
+        "Jira": "Pierce Transit",
+        "SF": "Pierce Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Placer County Transit",
+        "SF": "Placer County Transit",
+        "ARR": 7454.12
+    },
+    {
+        "Jira": "Plumas Transit",
+        "SF": "Plumas Transit",
+        "ARR": 2250.0
+    },
+    {
+        "Jira": "Pomona Valley Transportation Authority",
+        "SF": "Pomona Valley Transportation Authority",
+        "ARR": 4700.0
+    },
+    {
+        "Jira": "Port Arthur Transit",
+        "SF": "Port Arthur Transit",
+        "ARR": 2550.0
+    },
+    {
+        "Jira": "PARTA",
+        "SF": "Portage Area Regional Transportation Authority (PARTA)",
+        "ARR": 39092.64
+    },
+    {
+        "Jira": "Premier Coach Inc",
+        "SF": "Premier Coach Inc",
+        "ARR": 5300.0
+    },
+    {
+        "Jira": "Radiola",
+        "SF": "Radiola",
+        "ARR": 2359.52
+    },
+    {
+        "Jira": "Ramallah Bus",
+        "SF": "Ramallah Bus",
+        "ARR": 2291.84
+    },
+    {
+        "Jira": "DE Ramboll",
+        "SF": "Ramboll Deutschland Gmbh",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Raposo Tavares SP",
+        "SF": "Raposo Tavares SP",
+        "ARR": 55873.21
+    },
+    {
+        "Jira": "US - VCTC",
+        "SF": "RATP DEV - Ventura County (VCTC)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "RATP dev london",
+        "SF": "RATP Dev London",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "RATP USA",
+        "SF": "RATP DEV USA",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "RATP Dev DC",
+        "SF": "RATP DEV USA - DC Circulator",
+        "ARR": 93042.0
+    },
+    {
+        "Jira": "RATP-Dev The Comet",
+        "SF": "RATP DEV USA - The Comet",
+        "ARR": 0
+    },
+    {
+        "Jira": "DE - RBA",
+        "SF": "RBA Regionalbus Augsburg GmbH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "real auto onibus",
+        "SF": "real auto onibus",
+        "ARR": 43011.58
+    },
+    {
+        "Jira": "Red Rose Transit Authority",
+        "SF": "Red Rose Transit Authority",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Redbus",
+        "SF": "RedBus",
+        "ARR": null
+    },
+    {
+        "Jira": "Redbus Chile",
+        "SF": "Redbus Chile",
+        "ARR": 159600.0
+    },
+    {
+        "Jira": "Redding Area Bus Authority",
+        "SF": "Redding Area Bus Authority",
+        "ARR": 6585.6
+    },
+    {
+        "Jira": "Redline",
+        "SF": "Redline Buses",
+        "ARR": 40942.67
+    },
+    {
+        "Jira": "Redwood Coast Transit",
+        "SF": "Redwood Coast Transit",
+        "ARR": 2500.0
+    },
+    {
+        "Jira": "Regional Transportation Commission (RTC) of Washoe County (Reno)",
+        "SF": "Regional Transportation Commission (RTC) of Washoe County (Reno)",
+        "ARR": 4999.68
+    },
+    {
+        "Jira": "Rio Vista Delta Breeze",
+        "SF": "Rio Vista Delta Breeze",
+        "ARR": 2000.0
+    },
+    {
+        "Jira": "River Valley Transit",
+        "SF": "River Valley Transit Authority",
+        "ARR": 24405.03
+    },
+    {
+        "Jira": "RiverCities Transit",
+        "SF": "RiverCities Transit",
+        "ARR": 3000.0
+    },
+    {
+        "Jira": "Bow Valley Regional Transit Services Commission (Roam)",
+        "SF": "Roam Transit",
+        "ARR": 29539.55
+    },
+    {
+        "Jira": "Roam Transit",
+        "SF": "Roam Transit",
+        "ARR": 29539.55
+    },
+    {
+        "Jira": "Roaring Fork Transportation Authority (RFTA) - CO",
+        "SF": "Roaring Fork Transportation Authority (RFTA) - CO",
+        "ARR": 30195.0
+    },
+    {
+        "Jira": "RobertTP",
+        "SF": "RobertTP",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Rogue Valley Transportation District (RVTD)",
+        "SF": "Rogue Valley Transportation District (RVTD)",
+        "ARR": 11870.0
+    },
+    {
+        "Jira": "ROMA TPL Scarl",
+        "SF": "ROMA TPL Scarl",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "RTC RIDE",
+        "SF": "RTC RIDE",
+        "ARR": 8340.0
+    },
+    {
+        "Jira": "RTCSNV",
+        "SF": "RTC Transit/Regional Transportation Commission of Southern Nevada (RTCSNV)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "RVTrans SP",
+        "SF": "RVTrans SP",
+        "ARR": 45127.65
+    },
+    {
+        "Jira": "Sage Stage",
+        "SF": "Sage Stage",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Saint John Transit Commission",
+        "SF": "Saint John Transit Commission",
+        "ARR": 29877.48
+    },
+    {
+        "Jira": "Maderia",
+        "SF": "SAM - Sociedade de Autom\u00f3veis da Madeira, Lda.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "San Benito County Express",
+        "SF": "San Benito County Express",
+        "ARR": 3000.0
+    },
+    {
+        "Jira": "San Francisco Bay Ferry",
+        "SF": "San Francisco Bay Ferry",
+        "ARR": 4850.0
+    },
+    {
+        "Jira": "San Mateo County Transit District (SamTrans)",
+        "SF": "San Mateo County Transit District (SamTrans)",
+        "ARR": 4200.0
+    },
+    {
+        "Jira": "Santa Rosa CityBus",
+        "SF": "Santa Rosa CityBus",
+        "ARR": 16317.96
+    },
+    {
+        "Jira": "Sao Marcos",
+        "SF": "Sao Marcos",
+        "ARR": 49819.83
+    },
+    {
+        "Jira": "Scania Transport Services",
+        "SF": "Scania Transport Services",
+        "ARR": 4550.0
+    },
+    {
+        "Jira": "SCINTL c/o Tondeka Motor Company (TMC)",
+        "SF": "SCINTL c/o Tondeka Motor Company (TMC)",
+        "ARR": 1745214.78
+    },
+    {
+        "Jira": "Scottish Citylink",
+        "SF": "Scottish Citylink",
+        "ARR": 31176.9
+    },
+    {
+        "Jira": "Shizutetsu Justline co.,ltd.",
+        "SF": "Shizutetsu Justline co.,ltd.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Shoreline Metro",
+        "SF": "Shoreline Metro",
+        "ARR": 4350.0
+    },
+    {
+        "Jira": "Simi Valley Transit",
+        "SF": "Simi Valley Transit",
+        "ARR": 2100.0
+    },
+    {
+        "Jira": "Sioux Area Metro",
+        "SF": "Sioux Area Metro",
+        "ARR": 6650.0
+    },
+    {
+        "Jira": "Siskiyou County (STAGE)",
+        "SF": "Siskiyou County (STAGE)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Soci\u00e9t\u00e9 de transport de l'Outaouais (STO)",
+        "SF": "Soci\u00e9t\u00e9 de transport de l'Outaouais (STO)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Sogal / Transcal - RS",
+        "SF": "Sogal Sociedade de Onibus Gaucha Ltda.",
+        "ARR": 66954.0
+    },
+    {
+        "Jira": "Sogal Sociedade de Onibus Gaucha Ltda.",
+        "SF": "Sogal Sociedade de Onibus Gaucha Ltda.",
+        "ARR": 66954.0
+    },
+    {
+        "Jira": "Solaris transporte",
+        "SF": "Solaris transporte",
+        "ARR": 13655.41
+    },
+    {
+        "Jira": "Solatrans / Intrant Domican Republic",
+        "SF": "Solatrans / Intrant Domican Republic",
+        "ARR": 110561.86
+    },
+    {
+        "Jira": "Sonoma County Transit",
+        "SF": "Sonoma County Transit",
+        "ARR": 12879.0
+    },
+    {
+        "Jira": "Sonoma Marin Area Rail Transit District",
+        "SF": "Sonoma Marin Area Rail Transit District",
+        "ARR": 1890.0
+    },
+    {
+        "Jira": "South Bend Public Transportation Corporation (Transpo)",
+        "SF": "South Bend Public Transportation Corporation (Transpo)",
+        "ARR": 55800.0
+    },
+    {
+        "Jira": "SMART - Wilsonville",
+        "SF": "South Metro Area Regional Transit (SMART)- City of Wilsonville, OR",
+        "ARR": 32670.92
+    },
+    {
+        "Jira": "Southeast Area Transit",
+        "SF": "Southeast Area Transit",
+        "ARR": -7590.0
+    },
+    {
+        "Jira": "Southeast Vermont Transit/SEVT (The Current, MOOver)",
+        "SF": "Southeast Vermont Transit/SEVT (The Current, MOOver)",
+        "ARR": 595.0
+    },
+    {
+        "Jira": "Space Coast Area Transit",
+        "SF": "Space Coast Area Transit",
+        "ARR": 6000.0
+    },
+    {
+        "Jira": "SPS",
+        "SF": "SPS",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Stagecoach",
+        "SF": "Stagecoach UK Bus",
+        "ARR": 3815928.13
+    },
+    {
+        "Jira": "Stagecoach Cambridge",
+        "SF": "Stagecoach UK Bus",
+        "ARR": 3815928.13
+    },
+    {
+        "Jira": "STAR Transit - Terrell, TX",
+        "SF": "STAR Transit - Terrell, TX",
+        "ARR": 1500.0
+    },
+    {
+        "Jira": "StarMetro",
+        "SF": "StarMetro",
+        "ARR": 10000.0
+    },
+    {
+        "Jira": "START Bus - Jackson, Wyoming",
+        "SF": "START Bus - Jackson, Wyoming",
+        "ARR": 0
+    },
+    {
+        "Jira": "StarTran",
+        "SF": "StarTran (Lincoln, NE)",
+        "ARR": 92653.44
+    },
+    {
+        "Jira": "Steat SpA",
+        "SF": "Steat SpA",
+        "ARR": 47063.84
+    },
+    {
+        "Jira": "Straeto",
+        "SF": "Straeto",
+        "ARR": 93997.96
+    },
+    {
+        "Jira": "Streamline Transit",
+        "SF": "Streamline Transit",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "US - Suffolk",
+        "SF": "Suffolk Bus Corporation",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Superbus",
+        "SF": "Superbus",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "T3 Transit",
+        "SF": "T3 Transit",
+        "ARR": 3045.0
+    },
+    {
+        "Jira": "Tahoe TNT/TMA (Truckee-North Tahoe Transportation Management Association)",
+        "SF": "Tahoe TNT/TMA (Truckee-North Tahoe Transportation Management Association)",
+        "ARR": 7099.76
+    },
+    {
+        "Jira": "Tahoe Transportation District",
+        "SF": "Tahoe Transportation District",
+        "ARR": 15958.8
+    },
+    {
+        "Jira": "Tahoe Truckee Area Regional Transportation",
+        "SF": "Tahoe Truckee Area Regional Transportation",
+        "ARR": 8265.0
+    },
+    {
+        "Jira": "Tar River Transit",
+        "SF": "Tar River Transit",
+        "ARR": 8050.0
+    },
+    {
+        "Jira": "TCB \u2013 Transportes Colectivos do Barreiro",
+        "SF": "TCB \u2013 Transportes Colectivos do Barreiro",
+        "ARR": 36858.15
+    },
+    {
+        "Jira": "Tehama Rural Area Express",
+        "SF": "Tehama Rural Area Express",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Teisa",
+        "SF": "Teisa",
+        "ARR": null
+    },
+    {
+        "Jira": "Terre Haute Transit",
+        "SF": "Terre Haute Transit",
+        "ARR": 2500.0
+    },
+    {
+        "Jira": "The Bus - Ketchikan, AK",
+        "SF": "The Bus - Ketchikan, AK",
+        "ARR": 785.0
+    },
+    {
+        "Jira": "The Comet",
+        "SF": "The Comet",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "The E- Erie Metropolitan Transit Authority",
+        "SF": "The E- Erie Metropolitan Transit Authority",
+        "ARR": 0
+    },
+    {
+        "Jira": "The Kauai Bus/County of Kauai",
+        "SF": "The Kauai Bus/County of Kauai",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Grand Rapids",
+        "SF": "The Rapid (ITP - Interurban Transit Partnership), Grand Rapids, MI",
+        "ARR": 192736.28
+    },
+    {
+        "Jira": "Thousand Oaks Area Transit",
+        "SF": "Thousand Oaks Area Transit",
+        "ARR": 3920.0
+    },
+    {
+        "Jira": "TLC Travel",
+        "SF": "TLC Travel",
+        "ARR": 23765.21
+    },
+    {
+        "Jira": "Tnufa",
+        "SF": "Tnufa",
+        "ARR": 129648.79
+    },
+    {
+        "Jira": "Tower Transit UK",
+        "SF": "Tower Transit LON",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Tower Transit Singapore",
+        "SF": "Tower Transit Singapore",
+        "ARR": 442462.09
+    },
+    {
+        "Jira": "Town of Avon - Avon Transit",
+        "SF": "Town of Avon - Avon Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Town of Snowmass - Village Shuttle",
+        "SF": "Town of Snowmass - Village Shuttle",
+        "ARR": 7365.0
+    },
+    {
+        "Jira": "Town of Winter Park - The Lift",
+        "SF": "Town of Winter Park - The Lift",
+        "ARR": 4600.0
+    },
+    {
+        "Jira": "Trafikf\u00f6rvaltningen, Region Stockholm",
+        "SF": "Trafikf\u00f6rvaltningen, Region Stockholm",
+        "ARR": 29820.95
+    },
+    {
+        "Jira": "Tranbus Transportes EIRELI",
+        "SF": "Tranbus Transportes EIRELI",
+        "ARR": 9750.46
+    },
+    {
+        "Jira": "Transbus RS",
+        "SF": "Tranbus Transportes EIRELI",
+        "ARR": 9750.46
+    },
+    {
+        "Jira": "Transcal",
+        "SF": "Transcal - Sul Transportes Coletivos Ltda.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transcal - Sul Transportes Coletivos Ltda.",
+        "SF": "Transcal - Sul Transportes Coletivos Ltda.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transdev-Fr",
+        "SF": "Transdev France",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "DE - transdev Germany",
+        "SF": "Transdev Germany GmbH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transdev USA",
+        "SF": "Transdev NA",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Jefferson Transit (JeT) - Jefferson, LA",
+        "SF": "Transdev NA - Jefferson Transit (JeT) - Jefferson, LA",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transdev Nederland Holding N.V.",
+        "SF": "Transdev Nederland Holding N.V.",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transdev Portugal",
+        "SF": "Transdev Portugal",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transmimo SP",
+        "SF": "Transmimo SP",
+        "ARR": 36923.08
+    },
+    {
+        "Jira": "Transmoreira",
+        "SF": "Transmoreira",
+        "ARR": 69260.42
+    },
+    {
+        "Jira": "Transpessoal RS",
+        "SF": "Transpessoal RS",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transpordiamet",
+        "SF": "Transpordiamet",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Transport for Wales",
+        "SF": "Transport for Wales",
+        "ARR": 476489.24
+    },
+    {
+        "Jira": "Transport New Hampshire - Transport NH",
+        "SF": "Transport New Hampshire - Transport NH",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "TRANSPORTADORA TINGUA LTDA",
+        "SF": "TRANSPORTADORA TINGUA LTDA",
+        "ARR": 43517.6
+    },
+    {
+        "Jira": "TMD",
+        "SF": "Transportation Management & Design, Inc.(TMD)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "TMS",
+        "SF": "Transportation Management Services (TMS)",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "transporte paranapuan S.A",
+        "SF": "transporte paranapuan S.A",
+        "ARR": 23000.84
+    },
+    {
+        "Jira": "transportes CISNE",
+        "SF": "transportes CISNE",
+        "ARR": 16951.62
+    },
+    {
+        "Jira": "Triangle Transit",
+        "SF": "Triangle Transit",
+        "ARR": 0
+    },
+    {
+        "Jira": "Trinity Transit",
+        "SF": "Trinity Transit",
+        "ARR": 6000.0
+    },
+    {
+        "Jira": "TST",
+        "SF": "TST",
+        "ARR": null
+    },
+    {
+        "Jira": "TUA Abruzzo",
+        "SF": "TUA Abruzzo",
+        "ARR": 37301.5
+    },
+    {
+        "Jira": "Tulsa Transit",
+        "SF": "Tulsa Transit",
+        "ARR": 82449.92
+    },
+    {
+        "Jira": "Turlock Transit",
+        "SF": "Turlock Transit",
+        "ARR": 6820.0
+    },
+    {
+        "Jira": "Union City Transit",
+        "SF": "Union City Transit",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "University of Montana - UDASH",
+        "SF": "University of Montana - UDASH",
+        "ARR": 1950.0
+    },
+    {
+        "Jira": "Urbi",
+        "SF": "Urbi",
+        "ARR": 12937.97
+    },
+    {
+        "Jira": "Vacaville City Coach",
+        "SF": "Vacaville City Coach",
+        "ARR": 0
+    },
+    {
+        "Jira": "Vail Transit",
+        "SF": "Vail Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Valparaiso Transit",
+        "SF": "Valparaiso Transit",
+        "ARR": 2800.0
+    },
+    {
+        "Jira": "varginha",
+        "SF": "varginha",
+        "ARR": 12454.96
+    },
+    {
+        "Jira": "Vectalia",
+        "SF": "vectalia",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Verkehrsverbund Tirol (VVT)",
+        "SF": "Verkehrsverbund Tirol (VVT)",
+        "ARR": 21101.99
+    },
+    {
+        "Jira": "Vermont Agency of Transportation",
+        "SF": "Vermont Agency of Transportation",
+        "ARR": 87000.0
+    },
+    {
+        "Jira": "Via Mobility Services",
+        "SF": "Via Mobility Services",
+        "ARR": 6000.0
+    },
+    {
+        "Jira": "Alvorada",
+        "SF": "Viacao Alvorada",
+        "ARR": 209418.65
+    },
+    {
+        "Jira": "via\u00e7ao cidade de boa vista",
+        "SF": "via\u00e7ao cidade de boa vista",
+        "ARR": 18580.19
+    },
+    {
+        "Jira": "VIACAO DO SUL",
+        "SF": "VIACAO DO SUL",
+        "ARR": 14996.37
+    },
+    {
+        "Jira": "viacao Elite",
+        "SF": "viacao Elite",
+        "ARR": 28379.04
+    },
+    {
+        "Jira": "Via\u00e7ao Globo - MG",
+        "SF": "Via\u00e7ao Globo - MG",
+        "ARR": 24416.59
+    },
+    {
+        "Jira": "Via\u00e7\u00e3o Mimo SP",
+        "SF": "Via\u00e7\u00e3o Mimo SP",
+        "ARR": 115384.62
+    },
+    {
+        "Jira": "Viacao Minas gerais",
+        "SF": "Viacao Minas gerais",
+        "ARR": 28153.82
+    },
+    {
+        "Jira": "via\u00e7ao nossa senhora de lourdes RJ",
+        "SF": "via\u00e7ao nossa senhora de lourdes RJ",
+        "ARR": 26819.14
+    },
+    {
+        "Jira": "Novo Retiro",
+        "SF": "Viacao Novo Retiro",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "viacao passaro verde",
+        "SF": "viacao passaro verde",
+        "ARR": 24288.89
+    },
+    {
+        "Jira": "VIA\u00c7AO PROGRESSO",
+        "SF": "VIA\u00c7AO PROGRESSO",
+        "ARR": 20493.75
+    },
+    {
+        "Jira": "S\u00e3o Gon\u00e7alo",
+        "SF": "Viacao Sao Goncalo",
+        "ARR": 62164.01
+    },
+    {
+        "Jira": "Viacao Sao Goncalo",
+        "SF": "Viacao Sao Goncalo",
+        "ARR": 62164.01
+    },
+    {
+        "Jira": "via\u00e7ao Unica",
+        "SF": "via\u00e7ao Unica",
+        "ARR": 10153.85
+    },
+    {
+        "Jira": "Viacao Via Ouro",
+        "SF": "Viacao Via Ouro",
+        "ARR": 17001.83
+    },
+    {
+        "Jira": "Viacao Viasul",
+        "SF": "Viacao Viasul",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "via\u00e7ao zurick",
+        "SF": "via\u00e7ao zurick",
+        "ARR": 22517.83
+    },
+    {
+        "Jira": "Viamao RS",
+        "SF": "Viam\u00e3o RS",
+        "ARR": 46153.85
+    },
+    {
+        "Jira": "Victor Valley",
+        "SF": "Victor Valley Transit Authority (VVTA)",
+        "ARR": 76960.0
+    },
+    {
+        "Jira": "Victor Valley Transit Authority (VVTA)",
+        "SF": "Victor Valley Transit Authority (VVTA)",
+        "ARR": 76960.0
+    },
+    {
+        "Jira": "Virginia Regional Transit",
+        "SF": "Virginia Regional Transit",
+        "ARR": 0.0
+    },
+    {
+        "Jira": "Visate RS",
+        "SF": "Visate RS",
+        "ARR": 50364.04
+    },
+    {
+        "Jira": "Voyages L\u00e9onard",
+        "SF": "Voyages L\u00e9onard",
+        "ARR": 26452.18
+    },
+    {
+        "Jira": "Waiheke Bus Company",
+        "SF": "Waiheke Bus Company",
+        "ARR": 20597.07
+    },
+    {
+        "Jira": "Watt Consulting Group",
+        "SF": "Watt Consulting Group",
+        "ARR": 19204.61
+    },
+    {
+        "Jira": "Waukesha Metro Transit",
+        "SF": "Waukesha Metro Transit",
+        "ARR": 34743.26
+    },
+    {
+        "Jira": "West Coast Motors",
+        "SF": "West Coast Motors",
+        "ARR": 68224.78
+    },
+    {
+        "Jira": "Western Contra Costa Transit Authority (WESTCAT)",
+        "SF": "Western Contra Costa Transit Authority (WESTCAT)",
+        "ARR": 4900.0
+    },
+    {
+        "Jira": "Western Reserve Transit Authority (WRTA), Youngstown, OH",
+        "SF": "Western Reserve Transit Authority (WRTA), Youngstown, OH",
+        "ARR": 47145.0
+    },
+    {
+        "Jira": "Whippet Coaches",
+        "SF": "Whippet Coaches",
+        "ARR": 36867.36
+    },
+    {
+        "Jira": "UConn WRTD",
+        "SF": "Windham Region Transit District (WRTD) & University of Connecticut (UCONN)",
+        "ARR": 24987.0
+    },
+    {
+        "Jira": "Worcester Regional Transit Authority (WRTA)",
+        "SF": "Worcester Regional Transit Authority (WRTA)",
+        "ARR": 9425.0
+    },
+    {
+        "Jira": "Yosemite Area Regional Transit System",
+        "SF": "Yosemite Area Regional Transit System",
+        "ARR": 9000.0
+    },
+    {
+        "Jira": "Yuba-Sutter Transit",
+        "SF": "Yuba-Sutter Transit",
+        "ARR": 2750.0
+    }
+]

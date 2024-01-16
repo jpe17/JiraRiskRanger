@@ -1,6 +1,7 @@
 import pandas as pd
 from scipy.stats import norm
 from jira_process import JiraProcess
+from salesforce_connect import SalesforceConnect
 
 class JiraCalculateRisk(JiraProcess):
     def __init__(self, file_path, json_mapping_path, csv_file_path):
@@ -14,14 +15,37 @@ class JiraCalculateRisk(JiraProcess):
     def get_total_arr(self, ticket):
         total_arr = 0
         customers = self.get_customers(ticket)
+
         for customer in customers:
             customer_data = self.mapping.get(customer, {})
             arr_value = customer_data.get('ARR', 0)
 
             # Ensure arr_value is an integer
-            arr_value = 0 if arr_value is None else arr_value
+            if arr_value is None:
+                # Escaping single quotes in the customer name
+                sf = SalesforceConnect()
+                arr_value = sf.get_ARR(customer)
+
+                print(customer)
+                print(arr_value)
+
+                if arr_value is None:
+                    arr_value = 0
+
             total_arr += arr_value
+
         return total_arr
+
+    def get_arr_score(self, ticket):
+        arr = self.get_total_arr(ticket)
+        if arr < 50000:
+            return 1.0
+        if 50000 <= arr < 250000:
+            return 1.0
+        if 250000 <= arr < 1000000:
+            return 1.1
+        if arr >= 1000000:
+            return 1.2
 
     def get_estimated_time_to_completion(self, ticket):
         mission_type = self.get_mission_type(ticket)
@@ -49,7 +73,7 @@ class JiraCalculateRisk(JiraProcess):
             ticket) is not None else None
 
     def calculate_P_fail_x_ARR(self, ticket):
-        return self.calculate_P_fail(ticket) * self.get_total_arr(ticket) / 100 if self.calculate_P_fail(
+        return self.calculate_P_fail(ticket) * self.get_arr_score(ticket) / 100 if self.calculate_P_fail(
             ticket) is not None else None
 
     def calculate_P_fail_x_ARR_x_ITC(self, ticket):
@@ -58,7 +82,7 @@ class JiraCalculateRisk(JiraProcess):
             ticket) is not None) else None
         return
 
-    def generate_report(self):
+    def generate_full_report(self):
         processed_data = []
 
         for ticket in self.tickets:
@@ -94,8 +118,45 @@ class JiraCalculateRisk(JiraProcess):
 
         return report_df
 
-    def get_report_df(self):
-        return self.generate_report()
+    def generate_prio_report(self):
+        processed_data = []
+
+        for ticket in self.tickets:
+            processed_data.append({
+                'ID': self.get_ticket_id(ticket),
+                'Created': self.get_created_date(ticket).strftime("%Y-%m-%d") if self.get_created_date(
+                    ticket) is not None else None,
+                'Mission Type': self.get_mission_type(ticket),
+                'Region': self.get_region(ticket),
+                'Customer': self.get_customers(ticket),
+                'Customer Phase': self.get_customer_phase(ticket),
+                'Due Date': self.get_due_date(ticket).strftime("%Y-%m-%d") if self.get_due_date(
+                    ticket) is not None else None,
+                'ARR': self.get_total_arr(ticket),
+                'ARR_score':  self.get_arr_score(ticket),
+                'ITC': self.get_impact_to_customer(ticket),
+                'ETC': self.get_estimated_time_to_completion(ticket),
+                'SD': self.get_standard_deviation_to_completion(ticket),
+                'TTD': self.get_workdays_to_due(ticket),
+                'Z': self.calculate_z_risk(ticket),
+                'P': self.calculate_P_fail(ticket),
+                '(P*ARR)': self.calculate_P_fail_x_ARR(ticket),
+                '(P*ARR*ITC)': self.calculate_P_fail_x_ARR_x_ITC(ticket),
+            })
+
+        # Convert to DataFrame
+        report_df = pd.DataFrame(processed_data)
+
+        # Sort DataFrame by 'Calculated Risk (P*ARR)' in descending order
+        report_df = report_df.sort_values(by='(P*ARR*ITC)', ascending=False)
+
+        return report_df
+
+    def get_full_report_df(self):
+        return self.generate_full_report()
+
+    def get_prio_report_df(self):
+        return self.generate_prio_report()
 
     @staticmethod
     def save_report_as_csv(report_df, filename):

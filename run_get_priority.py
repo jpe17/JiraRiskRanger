@@ -29,7 +29,7 @@ if st.button('Fetch Data from JIRA'):
 # Section for calculating risk
 if st.button('Calculate Risk'):
     jira_calc = JiraCalculateRisk('To_Do_jira_tickets.json', 'jira_sf_mapping.json', 'estimated_times.csv')
-    report_df = jira_calc.get_report_df()
+    report_df = jira_calc.get_prio_report_df()
 
     # Set pandas options to display all columns
     pd.set_option('display.max_columns', None)
