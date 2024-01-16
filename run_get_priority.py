@@ -4,6 +4,7 @@ from jira_fetch import JiraFetch
 from jira_calculate_risk import JiraCalculateRisk
 from utils import count_json_entries
 from dotenv import load_dotenv
+import io
 
 # Load environment variables
 load_dotenv()
@@ -38,6 +39,17 @@ if st.button('Calculate Risk'):
     # Display the DataFrame in Streamlit
     st.dataframe(report_df)
 
-    # Optionally, save the report to a CSV file
-    jira_calc.save_report_as_csv(report_df, 'report.csv')
-    st.write("Report saved as 'report.csv'")
+    # Convert DataFrame to CSV
+    csv = report_df.to_csv(index=False)
+    # To convert to a CSV file in memory
+    b = io.BytesIO()
+    b.write(csv.encode())
+    b.seek(0)
+
+    # Create a download button and make the CSV file downloadable
+    st.download_button(
+        label="Download report as CSV",
+        data=b,
+        file_name='report.csv',
+        mime='text/csv',
+    )
