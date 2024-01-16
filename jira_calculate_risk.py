@@ -40,11 +40,11 @@ class JiraCalculateRisk(JiraProcess):
         arr = self.get_total_arr(ticket)
         if arr < 50000:
             return 1.0
-        if 50000 <= arr < 250000:
-            return 1.0
-        if 250000 <= arr < 1000000:
+        if 50000 <= arr < 100000:
+            return 1.05
+        if 100000 <= arr < 500000:
             return 1.1
-        if arr >= 1000000:
+        if arr >= 500000:
             return 1.2
 
     def get_estimated_time_to_completion(self, ticket):

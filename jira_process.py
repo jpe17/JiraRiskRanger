@@ -71,13 +71,13 @@ class JiraProcess:
     def get_impact_to_customer(ticket):
         impact_to_customer = ticket.get("Priority")
         if impact_to_customer == "Highest":
-            impact_to_customer_percent = 1.0
+            impact_to_customer_percent = 1.2
         elif impact_to_customer == "High":
-            impact_to_customer_percent = 0.6
+            impact_to_customer_percent = 1.1
         elif impact_to_customer == "Medium":
-            impact_to_customer_percent = 0.3
+            impact_to_customer_percent = 1.05
         elif impact_to_customer == "Low":
-            impact_to_customer_percent = 0.1
+            impact_to_customer_percent = 1.0
         else:
             impact_to_customer_percent = 0.0
         return impact_to_customer_percent
