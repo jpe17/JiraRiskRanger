@@ -1,5 +1,5 @@
 
-# JIRA Risk Calculator
+# JIRA Risk Ranger
 
 ## Description
 
